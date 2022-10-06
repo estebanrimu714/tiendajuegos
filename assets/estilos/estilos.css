@@ -1,0 +1,26 @@
+.fondo{
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgb(0, 36, 25) 0%, rgb(9, 121, 59) 34%, rgb(0, 255, 191) 100%);
+}
+
+.fuente{
+    font-family: 'Patrick Hand', cursive;
+}
+
+.fuente2{
+    font-size: 100px;
+}
+
+.card1{
+    background-color: rgb(23, 151, 112);
+}
+/* header{ */
+    /* width: 100%; */
+    /* position: fixed; */
+    /* position: absolute; */
+/* } */
+
+.fondo2{
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgb(30, 86, 70) 0%, rgb(9, 121, 59) 34%, rgb(0, 255, 191) 100%);
+}
